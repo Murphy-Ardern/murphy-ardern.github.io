@@ -1,0 +1,54 @@
+
+h1 {
+color:#413d3e;
+background-color:lightblue;
+padding:20px 20px 0px 10px;
+margin: -10px 0px 0px -10px; 
+position:static;
+}
+
+body {
+background-color:#f1d9b1;
+font-family: 'Archivo', sans-serif;
+}
+
+footer {
+display: block;
+background-color:lightblue ;
+position:fixed;
+top:97vh;
+width:100vw;
+border:black;
+border-style: solid;
+margin-left:-10px ;
+height:20px ;
+
+}
+
+#navigation { 
+text-align: left;
+background-color: #413d3e;
+width:100vw;
+margin:10px, 0px, -10px, 0px;
+position:absolute;
+}
+
+.navbar a{
+    display:inline;
+    text-align:left;
+    color:#01a1b1;
+    border: #7bb4bd;
+    background-color: #dfe8f1;
+    border-style:solid;
+} 
+
+#aboutme {
+    position:absolute;
+    left:90vw;
+}
+
+h1 {
+    font-family: 'Archivo', sans-serif;
+
+
+}
