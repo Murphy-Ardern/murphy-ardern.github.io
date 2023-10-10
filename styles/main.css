@@ -52,3 +52,9 @@ h1 {
 
 
 }
+
+#characterimg {
+ width:30vh;
+ height:20vh;
+ display:block;
+}
